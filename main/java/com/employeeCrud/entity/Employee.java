@@ -25,5 +25,5 @@ public class Employee {
     private String designation;
     private Double empSalary;
     private LocalDate joiningDate;
-    private String address;
+    private String Empaddress;
 }
