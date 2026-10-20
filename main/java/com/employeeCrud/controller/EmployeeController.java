@@ -12,7 +12,7 @@ import java.util.List;
 @CrossOrigin(origins = "http://localhost:5173/")
 @RequestMapping("/api/emp")
 public class EmployeeController {
-
+//empdetails
     @Autowired
     private EmployeeRepository employeeRepository;
 
