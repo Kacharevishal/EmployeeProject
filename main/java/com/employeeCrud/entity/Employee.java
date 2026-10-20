@@ -23,7 +23,7 @@ public class Employee {
     private String phoneNumber;
     private String department;
     private String designation;
-    private Double salary;
+    private Double empSalary;
     private LocalDate joiningDate;
     private String address;
 }
