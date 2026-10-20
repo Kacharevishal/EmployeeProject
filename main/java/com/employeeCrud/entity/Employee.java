@@ -20,7 +20,7 @@ public class Employee {
     private String Name;
     private String lastName;
     private String email;
-    private String phoneNumber;
+    private String phoneN;
     private String department;
     private String designation;
     private Double salary;
