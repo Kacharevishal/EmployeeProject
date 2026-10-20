@@ -16,7 +16,7 @@ public class Employee {
     private Long Id;
     private String Name;
     private String lastName;
-    private String email;
+    private String emailID;
     private String phoneNumber;
     private String department;
     private String designation;
